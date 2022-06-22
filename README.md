@@ -1,6 +1,6 @@
-# React Portfolio
+# Bonjour
 
-Check it live here - [http://madhavbahl.tech/portfolio/](http://madhavbahl.tech/portfolio/)
+
 
 ## Libraries used
 
